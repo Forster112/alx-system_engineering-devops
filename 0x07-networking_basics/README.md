@@ -28,9 +28,9 @@
 	+ Have you received boxes x, y, z?
 ### [4-TCP_and_UDP_ports](4-TCP_and_UDP_ports)
 + Write a Bash script that displays listening ports:
-	+ usage: netstat -l --program
+	+ usage: `netstat -l --program`
 ### [5-is_the_host_on_the_network](5-is_the_host_on_the_network)
 + Write a Bash script that pings an IP address passed as an argument.
-	+ Usage: 5-is_the_host_on_the_network {IP_ADDRESS}
+	+ Usage: `./5-is_the_host_on_the_network {IP_ADDRESS}`
 
 ## END
